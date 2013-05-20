@@ -4,3 +4,6 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
+.idea
+atlassian-ide-plugin.xml
+foss4g-na-2013.iml
